@@ -9,9 +9,11 @@ The sum of a and b.
 
 Example:
 
-Input: 
+Input:
+
 5
 
 7
+
 Output:
 12
