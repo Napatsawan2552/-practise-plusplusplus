@@ -11,6 +11,7 @@ Example:
 
 Input: 
 5
+
 7
 Output:
 12
